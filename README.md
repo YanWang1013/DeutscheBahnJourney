@@ -1,2 +1,3 @@
-# DeutsheBahn
- Implement a trip planner, built on top of the Deutsche Bahn’s open API.
+# Railboard
+
+A web-app to look at the Station-Board of mainly German Train-Stations
